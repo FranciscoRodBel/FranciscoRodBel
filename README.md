@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=FranciscoRodBel&icon=0&color=0)](https://visitcount.itsvg.in)<br>
 
-👨‍🎓  Estoy estudiando en el CIFP1 Ceuta<br>👨‍💻  Estoy estudiando primero  del superior de Desarrollo de Aplicaciones Web<br>🔴 🟡 🔴  Soy de España - Ceuta<br>📈 El propósito de este repositorio es usarlo a diario en clase<br>⚡ Me gusta programar
+👨‍🎓  Estoy estudiando en el CIFP1 Ceuta<br>👨‍💻  Estoy estudiando segundo del superior de Desarrollo de Aplicaciones Multiplataforma<br>🔴 🟡 🔴  Soy de España - Ceuta<br>📈 El propósito de este repositorio es usarlo a diario en clase<br>⚡ Me gusta programar
 
 
 ## 🌐 Redes sociales:
